@@ -84,6 +84,8 @@ print("I am looking for a job with a salary of", + lower, + "-" + ,upper, + "dol
 x = input("X val: ")
 y = input("Y val: ")
 
+print("")
+
 
 
 
